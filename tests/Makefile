@@ -76,6 +76,7 @@ EXPECT_NAMES=\
 	unistd/dup \
 	unistd/exec \
 	unistd/fchdir \
+	unistd/fork \
 	unistd/fsync \
 	unistd/ftruncate \
 	unistd/getopt \
